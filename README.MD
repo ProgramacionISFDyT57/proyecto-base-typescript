@@ -1,4 +1,4 @@
-#proyecto-base-typescript
+# proyecto-base-typescript
 
 Este proyecto de código contiene las librerías básicas para poder escribir Typescript.
 
